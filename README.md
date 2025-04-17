@@ -1,4 +1,4 @@
-# ramsingh-portfolio
+# Ram Singh-portfolio
 This is my Power BI and Accounting Portfolio. Built using HTML and hosted on GitHub Pages.
 # 💼 Ram Singh Jat – Power BI & Accounting Portfolio
 
