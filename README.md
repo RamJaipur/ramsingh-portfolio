@@ -1,6 +1,4 @@
-# Ram Singh-portfolio
-This is my Power BI and Accounting Portfolio. Built using HTML and hosted on GitHub Pages.
-# 💼 Ram Singh Jat – Power BI & Accounting Portfolio
+# 💼 Ram Singh Jat 
 
 Welcome to my professional portfolio! I'm **Ram Singh Jat**, a Senior Accountant with over 5 years of experience in **Accounts Payable, Financial Reporting**, and **Data Visualization using Power BI**.
 
