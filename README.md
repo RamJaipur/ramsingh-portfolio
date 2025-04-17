@@ -4,7 +4,12 @@
 
 Hi, I'm **Ram Singh Jat** — a passionate and results-driven **Senior Accountant** with over **5 years of experience** in **Accounts Payable, Financial Reporting**, and **Data Visualization**.
 
-I specialize in transforming complex financial data into actionable insights using tools like **Power BI, SQL, and Excel**. My work focuses on driving accuracy, compliance, and process efficiency across financial operations.
+I specialize in transforming complex financial data into actionable insights using tools like **Power BI, SQL, and Excel**. My work focuses on driving accuracy, compliance, and process efficiency across financial operations.This portfolio showcases my projects, skills, and certifications in:
+- Power BI Dashboard Development
+- Automated Invoice Processing
+- Customer Retention Analytics
+- Credit Lifecycle Visualization
+- Vendor & AP Management
 
 ---
 
